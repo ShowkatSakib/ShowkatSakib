@@ -6,11 +6,11 @@
 
 
 <h3 align="center">A learner, programmer, researcher and developer.</h3>
-
-🌱 Currently learning <b>ASP.NET, Modern Web Technologies, Machine Learning & Neural Networks</b>  
+<img src="https://komarev.com/ghpvc/?username=ShowkatSakib&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+🌱 Currently learning <b>ASP.NET, Modern Web Technologies, Machine Learning & Neural Networks</b>  <br> 
 💬 Ask me about <b>AI, Machine Learning, Neural Networks, Web Development, Data Analysis</b><br>  
 
-<h3>Connect With Me</h3>
+<h3>Connect With Me!!</h3>
   <a href="#" target="_blank" title="LinkedIn">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" width="80" alt="LinkedIn"/>
   </a>
@@ -56,7 +56,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60"/>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
