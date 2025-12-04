@@ -60,7 +60,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShowkatSakib&layout=compact&theme=default" height="160"/>
+  <img 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ShowkatSakib&layout=compact&theme=default" 
+    height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ShowkatSakib&show_icons=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShowkatSakib" height="160"/>
 </p>
