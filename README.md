@@ -8,11 +8,10 @@
 <h3 align="center">A learner, programmer, researcher and developer.</h3>
 
 🌱 Currently learning <b>ASP.NET, Modern Web Technologies, Machine Learning & Neural Networks</b>  
+💬 Ask me about <b>AI, Machine Learning, Neural Networks, Web Development, Data Analysis</b><br>
 👨‍💻 Explore my projects: <a href="https://sites.google.com/view/showkat-sakib-portfolio/home">Portfolio</a>  
-💬 Ask me about <b>AI, Machine Learning, Neural Networks, Web Development, Data Analysis</b>
 
 <h3>Connect With Me</h3>
-<p align="center">
   <a href="#" target="_blank" title="LinkedIn">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" width="80" alt="LinkedIn"/>
   </a>
@@ -22,19 +21,20 @@
   <a href="https://www.facebook.com/share/1ndam5qjku/" target="_blank" title="Facebook">
     <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" height="80" width="80" alt="Facebook"/>
   </a>
-</p>
+
 
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="60"/>
 </p>
+
 
 ### Web Technologies
 <p align="center">
