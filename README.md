@@ -3,36 +3,27 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Showkat Islam Sakib</h1>
+
+
 <h3 align="center">A learner, programmer, researcher and developer.</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding"/>
-</p>
-
-<p align="center">
 🌱 Currently learning <b>ASP.NET, Modern Web Technologies, Machine Learning & Neural Networks</b>  
 👨‍💻 Explore my projects: <a href="https://sites.google.com/view/showkat-sakib-portfolio/home">Portfolio</a>  
 💬 Ask me about <b>AI, Machine Learning, Neural Networks, Web Development, Data Analysis</b>
-</p>
 
----
-
-## 🌐 Connect With Me
+<h3>Connect With Me</h3>
 <p align="center">
   <a href="#" target="_blank" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" width="80" alt="LinkedIn"/>
   </a>
   <a href="#" target="_blank" title="Twitter">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="50"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="80" width="80" alt="Twitter"/>
   </a>
   <a href="https://www.facebook.com/share/1ndam5qjku/" target="_blank" title="Facebook">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" height="80" width="80" alt="Facebook"/>
   </a>
 </p>
 
-<p align="center"><i>Hover on the icons to see the platform name!</i></p>
-
----
 
 ## 🛠️ Technical Skills
 
