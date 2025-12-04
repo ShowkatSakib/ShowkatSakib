@@ -8,8 +8,7 @@
 <h3 align="center">A learner, programmer, researcher and developer.</h3>
 
 🌱 Currently learning <b>ASP.NET, Modern Web Technologies, Machine Learning & Neural Networks</b>  
-💬 Ask me about <b>AI, Machine Learning, Neural Networks, Web Development, Data Analysis</b><br>
-👨‍💻 Explore my projects: <a href="https://sites.google.com/view/showkat-sakib-portfolio/home">Portfolio</a>  
+💬 Ask me about <b>AI, Machine Learning, Neural Networks, Web Development, Data Analysis</b><br>  
 
 <h3>Connect With Me</h3>
   <a href="#" target="_blank" title="LinkedIn">
