@@ -7,8 +7,8 @@
 
 <h3 align="center">A learner, programmer, researcher and developer.</h3>
 <img src="https://komarev.com/ghpvc/?username=ShowkatSakib&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-🌱 Currently learning <b>ASP.NET, Modern Web Technologies, Machine Learning & Neural Networks</b>  <br> 
-💬 Ask me about <b>AI, Machine Learning, Neural Networks, Web Development, Data Analysis</b><br>  
+🌱 Currently learning ASP.NET, Neural Networks  <br> 
+💬 Ask me about AI, Machine Learning, Web Development, Data Analysis<br>  
 
 <h3>Connect With Me!!</h3>
   <a href="#" target="_blank" title="LinkedIn">
