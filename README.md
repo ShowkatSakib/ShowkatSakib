@@ -2,7 +2,7 @@
   <img src="https://geeky01adarsh.netlify.app/assets/profile1-d123abc2.gif" alt="banner" width="25%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Showkat Islam Sakib</h1>
+<h1 align="center">Hi 👋, I'm Sakib</h1>
 
 
 <h3 align="center">A learner, programmer, researcher and developer.</h3>
