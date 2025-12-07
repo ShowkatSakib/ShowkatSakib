@@ -11,7 +11,7 @@
 💬 Ask me about AI, Machine Learning, Web Development, Data Analysis<br>  
 
 <h3>Connect With Me!!</h3>
-  <a href="www.linkedin.com/in/md-showkat-islam-sakib" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/md-showkat-islam-sakib-585719393/" target="_blank" title="LinkedIn">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" width="80" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/sakib_show77222?t=pPW1a6JNqoTTtOkf09fv3g&s=09" target="_blank" title="Twitter">
