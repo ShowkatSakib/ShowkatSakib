@@ -14,7 +14,7 @@
   <a href="#" target="_blank" title="LinkedIn">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" width="80" alt="LinkedIn"/>
   </a>
-  <a href="[#](https://x.com/sakib_show77222?t=pPW1a6JNqoTTtOkf09fv3g&s=09)" target="_blank" title="Twitter">
+  <a href="https://x.com/sakib_show77222?t=pPW1a6JNqoTTtOkf09fv3g&s=09" target="_blank" title="Twitter">
     <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="80" width="80" alt="Twitter"/>
   </a>
   <a href="https://www.facebook.com/share/1ndam5qjku/" target="_blank" title="Facebook">
